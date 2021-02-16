@@ -1,6 +1,6 @@
 ### Hi I am Ertugrul 👋
-**
-Since I was 11 years old
+
+_Since I was 11 years old_
 
 🚀 My favorite software languages:
 - Go
