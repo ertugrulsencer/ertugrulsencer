@@ -5,4 +5,4 @@ My favorite software languages:
 - JavaScript
 - Php
 
-###### 🔭 I’m currently working on ...
+__🔭 I’m currently working on__
