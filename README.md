@@ -10,7 +10,10 @@ _Since I was 11 years old_
   - jQuery
   - VueJS
   - GulpJS
+  - Web Components
+- NodeJS
 - Php 7
+  - RestAPI
 - C Sharp
 - MySql
 - Firebase
