@@ -11,11 +11,14 @@ _Since I was 11 years old_
   - VueJS
   - GulpJS
   - Web Components
+- Firebase
 - NodeJS
+  - Express
+  - MongoDB
 - Php 7
+  - MySQL
   - RestAPI
 - C Sharp
-- MySql
-- Firebase
+- SQL
 
 __🔭 I’m currently coding..__
