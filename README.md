@@ -1,6 +1,6 @@
 ### Hi I am Ertugrul 👋
 
-_Since I was 11 years old_
+_Software developer since I was 11 years old_
 
 🚀 My favorite software languages and techs:
 - HTML 5
