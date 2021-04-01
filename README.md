@@ -6,6 +6,7 @@ _Since I was 11 years old_
 - HTML 5
 - CSS 3
   - Sass & Scss
+  - Less
 - JavaScript ES7+
   - jQuery
   - VueJS
