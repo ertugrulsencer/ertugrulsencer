@@ -2,6 +2,8 @@
 
 _Software developer since I was 11 years old_
 
+**I am currently working on the [fribe.org](fribe.org) project**
+
 🚀 My favorite software languages and techs:
 - HTML 5
 - CSS 3
