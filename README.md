@@ -9,7 +9,7 @@ _Since I was 11 years old_
 - JavaScript ES7+
   - jQuery
   - VueJS
-    - TypeScript
+    - Vuex
   - GulpJS
   - Web Components
 - TypeScript
