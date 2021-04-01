@@ -9,8 +9,10 @@ _Since I was 11 years old_
 - JavaScript ES7+
   - jQuery
   - VueJS
+    - TypeScript
   - GulpJS
   - Web Components
+- TypeScript
 - Firebase
 - NodeJS
   - Express
