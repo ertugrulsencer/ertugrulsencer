@@ -9,11 +9,16 @@ _Software developer since I was 11 years old_
 - CSS 3
   - Sass & Scss
   - Less
+  - Bootstarp 5
+  - Tailwind Css
 - JavaScript ES7+
   - jQuery
   - VueJS
     - Vuex
+    - Axios
+    - NuxtJS
   - GulpJS
+  - GruntJS
   - Web Components
 - TypeScript
 - Firebase
