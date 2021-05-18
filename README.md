@@ -1,6 +1,8 @@
-### Hi I am Ertugrul 👋
+## Hi I am Ertugrul 👋
 
 _Software developer since I was 11 years old_
+
+### I'm a Full-Stack developer
 
 **I am currently working on the [fribe.org](https://fribe.org) project**
 
