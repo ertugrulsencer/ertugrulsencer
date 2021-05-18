@@ -1,10 +1,10 @@
-## Hi I am Ertugrul 👋
+# Hi I am Ertugrul 👋
 
-_Software developer since I was 11 years old_
-
-### I'm a Full-Stack developer
+_**Full-Stack** developer since I was 11 years old_
 
 **I am currently working on the [fribe.org](https://fribe.org) project**
+
+![logo](https://fribe.org/resources/images/logo.svg)
 
 🚀 My favorite software languages and techs:
 - HTML 5
