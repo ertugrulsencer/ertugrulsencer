@@ -2,11 +2,14 @@
 
 <h4 align="center" style="padding: 34px 0;"> <b> Full-Stack </b> developer since I was 11 years old </h4>
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ertugrulsencer" alt="views"/>
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ertugrulsencer" alt="views"/>
+</p>
 **I am currently working on the [fribe.org](https://fribe.org) project**
 
-<img align="center" src="https://fribe.org/resources/images/logo.svg" width="450" alt="fribe-logo"/>
+<p align="center">
+  <img src="https://fribe.org/resources/images/logo.svg" width="450" alt="fribe-logo"/>
+</p>
 
 <details open>
   <summary>🚀 My favorite software languages and techs: </summary>
