@@ -3,11 +3,15 @@
 <h4 align="center" style="padding: 34px 0;"> <b> Full-Stack </b> developer since I was 11 years old </h4>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ertugrulsencer" alt="views"/>
+  <a href="https://github.com/ertugrulsencer/">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ertugrulsencer" alt="views"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://fribe.org/resources/images/logo.svg" width="450" alt="fribe-logo"/>
+  <a href="https://fribe.org">
+    <img src="https://fribe.org/resources/images/logo.svg" width="450" alt="fribe-logo"/>
+  </a>
 </p>
 
 **I am currently working on the [fribe.org](https://fribe.org) project**
