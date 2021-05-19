@@ -1,10 +1,10 @@
-# Hi I am Ertugrul 👋
+<h1 align="center"> Hi I am Ertugrul 👋 </h1>
 
-_**Full-Stack** developer since I was 11 years old_
+<h4 align="center" style="padding: 34px 0;"> <b> Full-Stack </b> developer since I was 11 years old </h4>
 
 **I am currently working on the [fribe.org](https://fribe.org) project**
 
-<img src="https://fribe.org/resources/images/logo.svg" width="450" alt="fribe-logo"/>
+<img align="center" src="https://fribe.org/resources/images/logo.svg" width="450" alt="fribe-logo"/>
 
 <details open>
   <summary>🚀 My favorite software languages and techs: </summary>
