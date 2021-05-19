@@ -4,7 +4,7 @@ _**Full-Stack** developer since I was 11 years old_
 
 **I am currently working on the [fribe.org](https://fribe.org) project**
 
-![logo](https://fribe.org/resources/images/logo.svg){width: 200px}
+<img src="https://fribe.org/resources/images/logo.svg" width="350" align="center" alt="fribe-logo"/>
 
 🚀 My favorite software languages and techs:
 - HTML 5
