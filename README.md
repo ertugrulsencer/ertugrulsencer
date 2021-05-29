@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://fribe.org">
-    <img src="https://fribe.org/resources/images/logo.svg" width="450" alt="fribe-logo"/>
+    <img src="https://fribe.org/resources/images/logo.svg" width="250" alt="fribe-logo"/>
   </a>
 </p>
 
