@@ -8,12 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://fribe.org">
-    <img src="https://fribe.org/resources/images/logo.svg" width="250" alt="fribe-logo"/>
-  </a>
-</p>
-
 **I am currently working on the [fribe.org](https://fribe.org) project**
 
 <details open>
