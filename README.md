@@ -1,4 +1,4 @@
-## ![Header GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+## ![Header GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil))
 
 ## 👋 Hi, I'm Ertuğrul Sencer!
 
