@@ -8,7 +8,7 @@
   </a>
 </p>
 
-**I am currently working on the [fribe.org](https://fribe.org) project**
+**I am currently working on the [siteksi.com](https://siteksi.com) project**
 
 <details open>
   <summary>🚀 My favorite software languages and techs: </summary>
